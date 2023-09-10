@@ -163,7 +163,7 @@ namespace SQRT_BI_23
                 }
                 else
                 {
-                    MessageBox.Show($"Квадратный орень из {number} не является аналитическим.");
+                    MessageBox.Show($"Квадратный корень из {number} не является аналитическим.");
                 }
             }
         }
